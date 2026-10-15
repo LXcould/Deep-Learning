@@ -8,7 +8,7 @@
 ## 目录结构
 
 ```
-03_deep_learning/
+HM-Neural-Net-and-Deep-Learning/
 ├── notes/          课堂笔记（6 篇，含代码示例）
 │   └── assets/     笔记里用到的插图
 ├── papers/         参数初始化相关的两篇原始论文

@@ -11,11 +11,11 @@
 | 路径 | 内容 |
 |---|---|
 | [`01_python_basics/`](01_python_basics/) | Python 基础语法：数据容器的笔记与练习、函数的阶梯练习 |
-| [`03_deep_learning/`](03_deep_learning/) | 深度学习入门：黑马《神经网络与深度学习》全课笔记、参数初始化论文、思维导图 |
+| [`HM-Neural-Net-and-Deep-Learning/`](HM-Neural-Net-and-Deep-Learning/) | 深度学习入门：黑马《神经网络与深度学习》全课笔记、参数初始化论文、思维导图 |
 | [Git常用命令-备忘.md](Git常用命令-备忘.md) | Git / GitHub 日常操作速查，忘了命令时翻这里 |
 | [研一上册学习路线.png](研一上册学习路线.png) | 研一上学期的学习路线图 |
 
-> `02` 号目录预留给 numpy / pandas / scikit-learn 部分，后续补充。
+numpy / pandas / scikit-learn 部分后续补充。
 
 ---
 
@@ -44,7 +44,7 @@
 
 **自己复习时**：按目录找对应模块的笔记，笔记里都标了对应的课程章节。
 
-**面试前**：重点看 `03_deep_learning/notes/04_损失函数与优化方法.md`（八股最密集），以及 `03_deep_learning/mindmaps/`（快速过一遍框架）。
+**面试前**：重点看 `HM-Neural-Net-and-Deep-Learning/notes/04_损失函数与优化方法.md`（八股最密集），以及 `HM-Neural-Net-and-Deep-Learning/mindmaps/`（快速过一遍框架）。
 
 **遇到具体报错时**：`Git常用命令-备忘.md` 里有常见错误的速查表。
 
